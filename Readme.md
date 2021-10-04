@@ -33,9 +33,6 @@ API Endpoint:
 
 http://localhost:8080/primemumberservice/{number}
 
-github
-
-
 Functionality
 
 This API will return all the prime number up to the input number.
@@ -44,5 +41,6 @@ For any input less than number 2, this API returns HTTP code 404 and return foll
 
 In case of Bad Arguments like Alphanumeric characters,  NumberFormat Exception is returned
 
+github
 
 
